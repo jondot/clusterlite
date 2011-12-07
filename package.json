@@ -1,0 +1,15 @@
+{
+  "author": "Dotan Nahum <jondotan@gmail.com>",
+  "name": "clusterlite",
+  "description": "Lite cluster based on 0.6.x Cluster API",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "index",
+  "engines": {
+    "node": "~0.6.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
